@@ -1,6 +1,6 @@
 # Hi 👋 I'm Kaisoneo
 
-### Minecraft Modder and Software Developer
+### Minecraft Modder and Discord Bot Developer
 
 [![github-social-badge](https://img.shields.io/github/stars/Kaisoneo?style=for-the-badge&logo=github&logoColor=%23ffffff&label=GitHub&labelColor=%234b0082&color=%231f1f1f&link=https%3A%2F%2Fgithub.com%2FKaisoneo)](https://github.com/Kaisoneo)
 [![youtube-social-badge](https://img.shields.io/youtube/channel/subscribers/UC7DdmXgZY6xBt352O7xME7A?style=for-the-badge&logo=youtube&logoColor=%23ffffff&label=YouTube&labelColor=%234b0082&color=%231f1f1f&link=https%3A%2F%2Fyoutube.com%2F%40kaisode%3Fsi%3D-akqU2LLdCHg3z-D)](https://youtube.com/@kaisode?si=-akqU2LLdCHg3z-D)
