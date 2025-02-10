@@ -1,9 +1,9 @@
-# Hi 👋 I'm Kaisoneo
+# Hi 👋 I'm IskufPlay
 
 ### Minecraft Modder and Discord Bot Developer
 
-[![github-social-badge](https://img.shields.io/github/stars/Kaisoneo?style=for-the-badge&logo=github&logoColor=%23ffffff&label=GitHub&labelColor=%234b0082&color=%231f1f1f&link=https%3A%2F%2Fgithub.com%2FKaisoneo)](https://github.com/Kaisoneo)
-[![youtube-social-badge](https://img.shields.io/youtube/channel/subscribers/UC7DdmXgZY6xBt352O7xME7A?style=for-the-badge&logo=youtube&logoColor=%23ffffff&label=YouTube&labelColor=%234b0082&color=%231f1f1f&link=https%3A%2F%2Fyoutube.com%2F%40kaisode%3Fsi%3D-akqU2LLdCHg3z-D)](https://youtube.com/@kaisode?si=-akqU2LLdCHg3z-D)
+[![github-social-badge](https://img.shields.io/github/stars/Kaisoneo?style=for-the-badge&logo=github&logoColor=%23ffffff&label=GitHub&labelColor=%234b0082&color=%231f1f1f&link=https%3A%2F%2Fgithub.com%2FKaisoneo)](https://github.com/IskufPlay)
+[![youtube-social-badge](https://img.shields.io/youtube/channel/subscribers/UC7DdmXgZY6xBt352O7xME7A?style=for-the-badge&logo=youtube&logoColor=%23ffffff&label=YouTube&labelColor=%234b0082&color=%231f1f1f&link=https%3A%2F%2Fyoutube.com%2F%40kaisode%3Fsi%3D-akqU2LLdCHg3z-D)](https://youtube.com/@IskufPlay?si=-akqU2LLdCHg3z-D)
 [![discord-social-badge](https://img.shields.io/discord/1289901579339698187?style=for-the-badge&logo=Discord&logoColor=%23ffffff&label=Discord&labelColor=%234b0082&color=%231f1f1f&link=https%3A%2F%2Fdiscord.gg%2FAQmdSpcYGc)](https://discord.gg/AQmdSpcYGc)
 
 Currently working on **The End Update** Minecraft mod, which includes creative biomes like the **Ash Garden**, and other exciting projects.
@@ -32,4 +32,4 @@ Currently working on **The End Update** Minecraft mod, which includes creative b
 
 ### Modrinth Organization
 
-[![modrinth](https://img.shields.io/badge/modrinth-555555?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/organization/cubik)
+[![modrinth](https://img.shields.io/badge/modrinth-555555?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/organization/creakling)
