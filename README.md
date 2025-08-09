@@ -1,8 +1,8 @@
-# Hi 👋 I'm SoulTrooper
+# Hi 👋 I'm KaiToast
 
 ### Minecraft Mod Developer
 
-[![github-social-badge](https://img.shields.io/github/stars/NoCtrlKai?style=for-the-badge&logo=github&logoColor=%23ffffff&label=GitHub&labelColor=%234b0082&color=%231f1f1f&link=https%3A%2F%2Fgithub.com%2FNoCtrlKai)](https://github.com/NoCtrlKai)
+[![github-social-badge](https://img.shields.io/github/stars/NoCtrlKai?style=for-the-badge&logo=github&logoColor=%23ffffff&label=GitHub&labelColor=%234b0082&color=%231f1f1f&link=https%3A%2F%2Fgithub.com%2FKaiToast)](https://github.com/KaiToast)
 [![youtube-social-badge](https://img.shields.io/youtube/channel/subscribers/UC7DdmXgZY6xBt352O7xME7A?style=for-the-badge&logo=youtube&logoColor=%23ffffff&label=YouTube&labelColor=%234b0082&color=%231f1f1f&link=https%3A%2F%2Fyoutube.com%2F%40kaisode%3Fsi%3D-akqU2LLdCHg3z-D)](https://youtube.com/@NoCtrlKai?si=-akqU2LLdCHg3z-D)
 [![discord-social-badge](https://img.shields.io/discord/1289901579339698187?style=for-the-badge&logo=Discord&logoColor=%23ffffff&label=Discord&labelColor=%234b0082&color=%231f1f1f&link=https%3A%2F%2Fdiscord.gg%2FAQmdSpcYGc)](https://discord.gg/AQmdSpcYGc)
 
@@ -27,8 +27,8 @@ Currently working on **The End Update** Minecraft mod, which includes creative b
 
 ### GitHub Statistics
 
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=NoCtrlKai&show_icons=true&locale=en&title_color=4b0082&bg_color=11111d&text_color=ffffff&icon_color=4b0082&border_color=000)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=NoCtrlKai&locale=en&layout=compact&title_color=4b0082&bg_color=11111d&text_color=ffffff&icon_color=4b0082&border_color=000)
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=KaiToast&show_icons=true&locale=en&title_color=4b0082&bg_color=11111d&text_color=ffffff&icon_color=4b0082&border_color=000)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=KaiToast&locale=en&layout=compact&title_color=4b0082&bg_color=11111d&text_color=ffffff&icon_color=4b0082&border_color=000)
 
 ### Modrinth Organization
 
