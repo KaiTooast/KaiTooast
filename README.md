@@ -32,4 +32,4 @@ Currently working on **The End Update** Minecraft mod, which includes creative b
 
 ### Modrinth Organization
 
-[![modrinth](https://img.shields.io/badge/modrinth-555555?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/organization/orebit-studio)
+[![modrinth](https://img.shields.io/badge/modrinth-555555?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/organization/modular-studios)
