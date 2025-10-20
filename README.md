@@ -1,11 +1,11 @@
-# Hi 👋 I'm KaiToast
+# Hi 👋 I'm KaiTooast
 
 ### Minecraft Mod Developer
 
 [![github-social-badge](https://img.shields.io/github/stars/KaiTooast?style=for-the-badge&logo=github&logoColor=%23ffffff&label=GitHub&labelColor=%234b0082&color=%231f1f1f&link=https%3A%2F%2Fgithub.com%2FKaiToast)](https://github.com/KaiTooast)
-[![youtube-social-badge](https://img.shields.io/youtube/channel/subscribers/UC7DdmXgZY6xBt352O7xME7A?style=for-the-badge&logo=youtube&logoColor=%23ffffff&label=YouTube&labelColor=%234b0082&color=%231f1f1f&link=https%3A%2F%2Fyoutube.com%2F%40kaisode%3Fsi%3D-akqU2LLdCHg3z-D)](https://youtube.com/@NoCtrlKai?si=-akqU2LLdCHg3z-D)
+[![youtube-social-badge](https://img.shields.io/youtube/channel/subscribers/UC7DdmXgZY6xBt352O7xME7A?style=for-the-badge&logo=youtube&logoColor=%23ffffff&label=YouTube&labelColor=%234b0082&color=%231f1f1f&link=https%3A%2F%2Fyoutube.com%2F%40kaisode%3Fsi%3D-akqU2LLdCHg3z-D)](https://youtube.com/@KaiTooast?si=-akqU2LLdCHg3z-D)
 
-Currently working on **The End Update** Minecraft mod, which includes creative biomes like the **Ash Garden**, and other exciting projects.
+Currently working on **NetherStuff** Minecraft mod, which includes creative biomes like the **Soul Forest**, and other exciting projects.
 
 - 🌱 Constantly learning new skills and improving my mods
 - 🔨 Modding languages: **Java**, **JSON**, **JavaScript/TypeScript**, **Python**
@@ -29,6 +29,6 @@ Currently working on **The End Update** Minecraft mod, which includes creative b
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=KaiTooast&show_icons=true&locale=en&title_color=4b0082&bg_color=11111d&text_color=ffffff&icon_color=4b0082&border_color=000)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=KaiTooast&locale=en&layout=compact&title_color=4b0082&bg_color=11111d&text_color=ffffff&icon_color=4b0082&border_color=000)
 
-### Modrinth Organization
+### Modrinth
 
-[![modrinth](https://img.shields.io/badge/modrinth-555555?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/organization/modular-studios)
+[![KaiTooast](https://img.shields.io/badge/modrinth-555555?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/KaiTooast)
