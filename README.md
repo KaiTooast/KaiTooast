@@ -26,8 +26,8 @@ Currently working on **NetherStuff** Minecraft mod, which includes creative biom
 
 ### GitHub Statistics
 
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=KaiTooast&show_icons=true&locale=en&title_color=4b0082&bg_color=11111d&text_color=ffffff&icon_color=4b0082&border_color=000)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=KaiTooast&locale=en&layout=compact&title_color=4b0082&bg_color=11111d&text_color=ffffff&icon_color=4b0082&border_color=000)
+![GitHub Stats](https://gitstats-by-kai.netlify.app/?username=KaiTooast&title_color=ff6b9d&bg_color=1a0b2e&text_color=f0e7d8&accent_color=ffa07a&type=stats)
+![Most Used Languages](https://gitstats-by-kai.netlify.app/?username=KaiTooast&title_color=ff6b9d&bg_color=1a0b2e&text_color=f0e7d8&accent_color=ffa07a&type=languages)
 
 ### Modrinth
 
