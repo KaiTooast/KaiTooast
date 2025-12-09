@@ -21,7 +21,7 @@ Currently working on **NetherStuff** Minecraft mod, which includes creative biom
 
 ### My Projects
 
-- --**The End Update** - A Minecraft mod expanding the End dimension with new biomes and content.--
+- **The End Update** - A Minecraft mod expanding the End dimension with new biomes and content.
 - More projects to come!
 
 ### GitHub Statistics
