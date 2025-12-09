@@ -21,14 +21,14 @@ Currently working on **NetherStuff** Minecraft mod, which includes creative biom
 
 ### My Projects
 
-- **The End Update** - A Minecraft mod expanding the End dimension with new biomes and content.
+- --**The End Update** - A Minecraft mod expanding the End dimension with new biomes and content.--
 - More projects to come!
 
 ### GitHub Statistics
 
-![GitHub Stats](https://gitstats-by-kai.netlify.app/?username=KaiTooast&title_color=58a6ff&bg_color=0d1117&text_color=c9d1d9&accent_color=58a6ff&type=stats)
-![Most Used Languages](https://gitstats-by-kai.netlify.app/?username=KaiTooast&title_color=ff6b9d&bg_color=1a0b2e&text_color=f0e7d8&accent_color=ffa07a&type=languages)
-![GitHub Streak](https://gitstats-by-kai.netlify.app/?username=KaiTooast&title_color=ff6b9d&bg_color=1a0b2e&text_color=f0e7d8&accent_color=ffa07a&type=streak)
+![GitHub Stats](./badges/github-stats-KaiTooast.svg)
+![Most Used Languages](./badges/github-languages-KaiTooast.svg)
+![GitHub Streak](./badges/github-streak-KaiTooast.svg)
 
 ### Modrinth
 

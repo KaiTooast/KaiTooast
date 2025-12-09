@@ -1,0 +1,13 @@
+<svg width="500" height="200" xmlns="http://www.w3.org/2000/svg">
+        <rect width="500" height="200" fill="#1a0b2e" stroke="#ffa07a" stroke-width="2" rx="10"/>
+        <text x="20" y="35" style="font: 700 20px system-ui; fill: #ff6b9d;">Most Used Languages</text>
+        <line x1="20" y1="45" x2="480" y2="45" stroke="#ffa07a" stroke-width="2" opacity="0.5"/>
+            <text x="30" y="80" style="font: 600 14px system-ui; fill: #f0e7d8;">HTML</text>
+            <rect x="30" y="88" width="133.2" height="12" fill="#ffa07a" rx="6" opacity="0.8"/>
+            <text x="173.2" y="98" style="font: 600 12px system-ui; fill: #f0e7d8;">33.3%</text>
+            <text x="30" y="120" style="font: 600 14px system-ui; fill: #f0e7d8;">JavaScript</text>
+            <rect x="30" y="128" width="133.2" height="12" fill="#ffa07a" rx="6" opacity="0.8"/>
+            <text x="173.2" y="138" style="font: 600 12px system-ui; fill: #f0e7d8;">33.3%</text>
+            <text x="30" y="160" style="font: 600 14px system-ui; fill: #f0e7d8;">Java</text>
+            <rect x="30" y="168" width="133.2" height="12" fill="#ffa07a" rx="6" opacity="0.8"/>
+            <text x="173.2" y="178" style="font: 600 12px system-ui; fill: #f0e7d8;">33.3%</text></svg>

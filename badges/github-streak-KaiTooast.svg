@@ -1,0 +1,9 @@
+<svg width="500" height="180" xmlns="http://www.w3.org/2000/svg">
+        <rect width="500" height="180" fill="#1a0b2e" stroke="#ffa07a" stroke-width="2" rx="10"/>
+        <text x="20" y="35" style="font: 700 20px system-ui; fill: #ff6b9d;">🔥 GitHub Streak</text>
+        <line x1="20" y1="45" x2="480" y2="45" stroke="#ffa07a" stroke-width="2" opacity="0.5"/>
+        
+        <text x="250" y="100" style="font: 700 48px system-ui; fill: #ffa07a;" text-anchor="middle">1095</text>
+        <text x="250" y="130" style="font: 600 16px system-ui; fill: #f0e7d8; opacity: 0.8;" text-anchor="middle">Tage auf GitHub</text>
+        <text x="250" y="155" style="font: 500 12px system-ui; fill: #f0e7d8; opacity: 0.6;" text-anchor="middle">Seit 10.12.2022</text>
+    </svg>
