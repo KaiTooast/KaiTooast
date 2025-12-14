@@ -62,7 +62,7 @@ Currently working on **NetherStuff** Minecraft mod, which includes creative biom
     <td align="center" width="50%">
       <h3>🔥 NetherStuff</h3>
       <p>A Minecraft mod adding creative biomes to the Nether, including the <strong>Soul Forest</strong> and more!</p>
-      <a href="https://modrinth.com/user/KaiTooast">
+      <a href="https://modrinth.com/mod/netherstuff">
         <img src="https://img.shields.io/badge/View_on_Modrinth-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth">
       </a>
     </td>
