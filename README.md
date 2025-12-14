@@ -89,7 +89,7 @@ Currently working on **NetherStuff** Minecraft mod, which includes creative biom
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KaiTooast&theme=tokyonight&hide_border=true&background=0D1117&ring=9745F5&fire=9745F5&currStreakLabel=9745F5)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaiTooast&theme=tokyonight&hide_border=true&background=0a0a0f&ring=a855f7&fire=a855f7&currStreakLabel=a855f7)](https://git.io/streak-stats)
 
 </div>
 
