@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm KaiTooast
 
-### 🎮 Minecraft Mod Developer | 🦆 Duck Enthusiast
+### 🎮 Minecraft Mod Developer | 🧊 3D Asset Designer
 
 <br>
 
@@ -22,8 +22,7 @@ Currently working on **NetherStuff** Minecraft mod, which includes creative biom
 
 - 🔥 Creator of **NetherStuff** & **EndStuff** mods
 - 🌱 Constantly learning new skills and improving my mods
-- 🔨 Modding languages: **Java**, **JSON**, **JavaScript/TypeScript**, **Python**
-- 🦆 Fun fact: I spend my free time with my ducks!
+- 🔨 Modding languages: **Java**, **JSON**, **JavaScript**, **Python**
 
 <br clear="right">
 
