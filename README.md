@@ -63,10 +63,11 @@ Currently working on **NetherStuff** Minecraft mod, which includes creative biom
       </a>
     </td>
     <td align="center" width="50%">
-      <h3>🌌 EndStuff</h3>
-      <p>Expanding the End dimension with new biomes, mobs, and exciting content!</p>
-      <a href="https://github.com/KaiTooast">
-        <img src="https://img.shields.io/badge/Coming_Soon-4b0082?style=for-the-badge&logo=github&logoColor=white" alt="Coming Soon">
+      <h3>🌌 I.R.I.S</h3>
+      <p>A self made Programm with a WebUI that Generate Images via your GPU.</p>
+      <a href="https://github.com/KaiTooast/Iris">
+        <img src="https://img.shields.io/badge/I.R.I.S-GPU_Powered-blueviolet?style=for-the-badge&logo=nvidia&logoColor=white" alt="I.R.I.S GPU Powered">
+      </a>
       </a>
     </td>
   </tr>
