@@ -20,9 +20,9 @@
 
 Currently working on **NetherStuff** Minecraft mod, which includes creative biomes like the **Soul Forest**, and other exciting projects.
 
-- 🔥 Creator of **NetherStuff** & **EndStuff** mods
+- 🔥 Creator of **NetherStuff** mod
 - 🌱 Constantly learning new skills and improving my mods
-- 🔨 Modding languages: **Java**, **JSON**, **JavaScript**, **Python**
+- 🔨 Coding languages: **Java**, **JSON**, **JavaScript**, **Python**
 
 <br clear="right">
 
