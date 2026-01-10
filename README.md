@@ -2,72 +2,57 @@
 
 # Hi there 👋 I'm KaiTooast
 
-### 🎮 Minecraft Mod Developer | 🧊 3D Asset Designer
+### 🐍 Python Developer | 🤖 AI Enthusiast | 📱 App Creator
 
 <br>
 
-[![github-social-badge](https://img.shields.io/github/stars/KaiTooast?style=for-the-badge&logo=github&logoColor=%23ffffff&label=GitHub&labelColor=%234b0082&color=%231f1f1f)](https://github.com/KaiTooast)
-[![youtube-social-badge](https://img.shields.io/youtube/channel/subscribers/UC7DdmXgZY6xBt352O7xME7A?style=for-the-badge&logo=youtube&logoColor=%23ffffff&label=YouTube&labelColor=%234b0082&color=%231f1f1f)](https://youtube.com/@KaiTooast?si=-akqU2LLdCHg3z-D)
-[![modrinth-badge](https://img.shields.io/badge/Modrinth-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/KaiTooast)
+[![GitHub](https://img.shields.io/github/stars/KaiTooast?style=for-the-badge&logo=github&logoColor=%23ffffff&label=GitHub&labelColor=%234b0082&color=%231f1f1f)](https://github.com/KaiTooast)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC7DdmXgZY6xBt352O7xME7A?style=for-the-badge&logo=youtube&logoColor=%23ffffff&label=YouTube&labelColor=%234b0082&color=%231f1f1f)](https://youtube.com/@KaiTooast)
 
 </div>
 
 ---
-
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif2.gif.gif">
 
 ### 👨‍💻 About Me
 
-Currently working on **NetherStuff** Minecraft mod, which includes creative biomes like the **Soul Forest**, and other exciting projects.
+I build tools that run locally and give users full control. No cloud dependencies, no telemetry — just software that works for you.
 
-- 🔥 Creator of **NetherStuff** mod
-- 🌱 Constantly learning new skills and improving my mods
-- 🔨 Coding languages: **Java**, **JSON**, **JavaScript**, **Python**
-
-<br clear="right">
+- 🌌 Creator of **I.R.I.S.** — Local-first AI image generation engine
+- 📱 Creator of **Wallpaper Scheduler** — Android app for automated wallpaper changes
+- 🔧 Languages: **Python**, **Java**, **JavaScript**
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
 
 <div align="center">
 
-[![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/compact-minimal/available/github_vector.svg)](https://github.com/)
-[![java](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/built-with/java_vector.svg)](https://www.java.com/en/)
-[![python](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/built-with/python_vector.svg)](https://www.python.org/)
-[![js-ts](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/built-with/javascript_vector.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-</div>
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-### 🎮 My Projects
+### 🚀 Featured Projects
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>🔥 NetherStuff</h3>
-      <p>A Minecraft mod adding creative biomes to the Nether, including the <strong>Soul Forest</strong> and more!</p>
-      <a href="https://modrinth.com/mod/netherstuff">
-        <img src="https://img.shields.io/badge/View_on_Modrinth-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth">
+      <h3>🌌 I.R.I.S.</h3>
+      <p>Local-first AI image generation engine. No cloud, no accounts, no telemetry. Runs entirely on your hardware.</p>
+      <a href="https://github.com/KaiTooast/iris">
+        <img src="https://img.shields.io/badge/View_Project-a855f7?style=for-the-badge&logo=github&logoColor=white" alt="I.R.I.S.">
       </a>
     </td>
     <td align="center" width="50%">
-      <h3>🌌 I.R.I.S</h3>
-      <p>A self made Programm with a WebUI that Generate Images via your GPU.</p>
-      <a href="https://github.com/KaiTooast/Iris">
-        <img src="https://img.shields.io/badge/I.R.I.S-GPU_Powered-blueviolet?style=for-the-badge&logo=nvidia&logoColor=white" alt="I.R.I.S GPU Powered">
-      </a>
+      <h3>📱 Wallpaper Scheduler</h3>
+      <p>Android app to schedule different wallpapers for different times of day. Material Design 3.</p>
+      <a href="https://github.com/KaiTooast/wallpaper-schedule">
+        <img src="https://img.shields.io/badge/View_Project-3b82f6?style=for-the-badge&logo=android&logoColor=white" alt="Wallpaper Scheduler">
       </a>
     </td>
   </tr>
@@ -75,38 +60,18 @@ Currently working on **NetherStuff** Minecraft mod, which includes creative biom
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KaiTooast&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9745f5&icon_color=9745f5&text_color=ffffff" alt="GitHub Stats" height="180">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiTooast&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9745f5&text_color=ffffff" alt="Top Languages" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=KaiTooast&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff" alt="GitHub Stats" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiTooast&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff" alt="Top Languages" height="180">
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaiTooast&theme=tokyonight&hide_border=true&background=0a0a0f&ring=a855f7&fire=a855f7&currStreakLabel=a855f7)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=KaiTooast&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-[![KaiTooast's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaiTooast&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=9745f5&line=9745f5&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaiTooast&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7)](https://git.io/streak-stats)
 
 </div>
 
@@ -114,18 +79,14 @@ Currently working on **NetherStuff** Minecraft mod, which includes creative biom
 
 <div align="center">
 
-### 🤝 Connect with Me
+### 🤝 Connect
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@KaiTooast)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaiTooast)
-[![Modrinth](https://img.shields.io/badge/Modrinth-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/KaiTooast)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@KaiTooast)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/918149823587307580)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=KaiTooast&color=9745f5&style=for-the-badge&label=Profile+Views)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%">
+![Profile Views](https://komarev.com/ghpvc/?username=KaiTooast&color=a855f7&style=for-the-badge&label=Profile+Views)
 
 </div>
